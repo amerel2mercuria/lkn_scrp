@@ -1,0 +1,7 @@
+# Ignore .env file
+.env
+.venv
+
+# Ignore mm.py and gm.py
+mm.py
+gm.py
